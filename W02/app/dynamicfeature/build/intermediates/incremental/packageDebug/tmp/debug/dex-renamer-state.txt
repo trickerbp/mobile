@@ -1,0 +1,4 @@
+#Thu Oct 09 09:28:45 ICT 2025
+base.0=C\:\\Users\\ngoho\\AndroidStudioProjects\\W02\\app\\dynamicfeature\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

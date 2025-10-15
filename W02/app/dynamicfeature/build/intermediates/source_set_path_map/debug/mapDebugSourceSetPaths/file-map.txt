@@ -1,0 +1,8 @@
+com.htung.dynamicfeature-pngs-0 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\build\generated\res\pngs\debug
+com.htung.dynamicfeature-resValues-1 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\build\generated\res\resValues\debug
+com.htung.dynamicfeature-updated_navigation_xml-2 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\build\generated\updated_navigation_xml\debug
+com.htung.dynamicfeature-packageDebugResources-3 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.htung.dynamicfeature-packageDebugResources-4 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.htung.dynamicfeature-debug-5 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\build\intermediates\merged_res\debug\mergeDebugResources
+com.htung.dynamicfeature-debug-6 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\src\debug\res
+com.htung.dynamicfeature-main-7 C:\Users\ngoho\AndroidStudioProjects\W02\app\dynamicfeature\src\main\res
