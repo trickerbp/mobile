@@ -1,1 +1,0 @@
-:app:dynamicfeature::debug;Capability: group='W02.app', name='dynamicfeature'
